@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874073540608",
+    "project_id": "hyperwash-f01cb",
+    "storage_bucket": "hyperwash-f01cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874073540608:android:685cdb34b92044c65d70e5",
+        "android_client_info": {
+          "package_name": "com.example.hyperwash_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFWmQ51MvfnR5uSmEEuO2bLMC4ckSlvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874073540608:android:c1f67b6e91178efd5d70e5",
+        "android_client_info": {
+          "package_name": "com.example.mcommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFWmQ51MvfnR5uSmEEuO2bLMC4ckSlvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
